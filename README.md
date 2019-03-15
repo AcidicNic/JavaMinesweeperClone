@@ -1,7 +1,7 @@
 # JavaMinesweeperClone
 Work in progress. 
 ### What I still need to add:
-* right click to mark bomb (add a little flag icon. if right clicked again it will revert to the blank button)
+* right click to mark bombs (add a little flag icon. if right clicked again it will revert to the blank button)
 * counters for: time, remaining bombs
 * left clicking a bomb ends the game
 * aethetic
